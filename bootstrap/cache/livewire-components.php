@@ -1,0 +1,17 @@
+<?php return array (
+  'auth.login' => 'App\\Http\\Livewire\\Auth\\Login',
+  'manage.item.item-form' => 'App\\Http\\Livewire\\Manage\\Item\\ItemForm',
+  'manage.item.item-list' => 'App\\Http\\Livewire\\Manage\\Item\\ItemList',
+  'manage.part.part-list' => 'App\\Http\\Livewire\\Manage\\Part\\PartList',
+  'manage.product.product-form' => 'App\\Http\\Livewire\\Manage\\Product\\ProductForm',
+  'manage.product.product-list' => 'App\\Http\\Livewire\\Manage\\Product\\ProductList',
+  'manage.supplier.supplier-form' => 'App\\Http\\Livewire\\Manage\\Supplier\\SupplierForm',
+  'manage.supplier.supplier-list' => 'App\\Http\\Livewire\\Manage\\Supplier\\SupplierList',
+  'order.apparel.create' => 'App\\Http\\Livewire\\Order\\Apparel\\Create',
+  'order.apparel.item-list' => 'App\\Http\\Livewire\\Order\\Apparel\\ItemList',
+  'order.category' => 'App\\Http\\Livewire\\Order\\Category',
+  'order.equipment' => 'App\\Http\\Livewire\\Order\\Equipment',
+  'order.parts' => 'App\\Http\\Livewire\\Order\\Parts',
+  'order.supplement.create' => 'App\\Http\\Livewire\\Order\\Supplement\\Create',
+  'order.supplement.item-list' => 'App\\Http\\Livewire\\Order\\Supplement\\ItemList',
+);
